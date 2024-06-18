@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- there is gonna be something here soon
+- Make sure to check out our Bachelor's thesis organization: [Trails Through Shadows](https://github.com/Trails-Through-Shadows)!
 
 <!--
 **Kkobarii/Kkobarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
