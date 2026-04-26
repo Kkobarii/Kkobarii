@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Make sure to check out our Bachelor's thesis organization: [Trails Through Shadows](https://github.com/Trails-Through-Shadows)!
+- Check out my Master's thesis project too: [Treeline](https://github.com/Kkobarii/Treeline)!
 - I created a [Blog](https://blog.kkobari.eu) now too (with maybe a bit not-so-comfy themes) so you can read a bit if you're up to it!
 
 <!--
